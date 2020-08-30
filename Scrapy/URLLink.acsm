@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:00000000-0000-0000-0000-000000000001</distributor>
+  <operatorURL>http://lending6.us.archive.org:8080/fulfillment</operatorURL>
+  <transaction>04395c2a-b94a-4fa9-bb80-d4f0e7061111</transaction>
+  <purchase>2020-04-03T16:41:30+00:00</purchase>
+  <expiration>2020-04-10T16:41:30+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:9268e516-1963-4da1-abf2-2c9535cd1204</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">The Gothic cathedral : origins of Gothic architecture and the medieval concept of order</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simson, Otto Georg von, 1912-</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Princeton : Princeton University Press</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">gothiccathedralo00sims</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+      <thumbnailURL>http://archive.org/services/img/gothiccathedralo00sims</thumbnailURL>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:9268e516-1963-4da1-abf2-2c9535cd1204</resource>
+      <permissions>
+        <display>
+          <until>2020-04-17T16:39:38+00:00</until>
+        </display>
+        <excerpt>
+          <until>2020-04-17T16:39:38+00:00</until>
+        </excerpt>
+        <print>
+          <until>2020-04-17T16:39:38+00:00</until>
+        </print>
+        <play>
+          <until>2020-04-17T16:39:38+00:00</until>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>tC2YWDrsnpANZp+ujIJFwx3XI2s=</hmac>
+</fulfillmentToken>
